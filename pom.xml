@@ -8,6 +8,12 @@
   <name>01-maven-web-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+    <d2> 
+      <dependency>
+        <head>
+          <body>
+            <name . poxm.xml cll int kae th>
+              <tag>  body  ans java maven projwct>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
